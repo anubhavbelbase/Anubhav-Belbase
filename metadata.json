@@ -1,0 +1,5 @@
+{
+  "name": "CivicConnect Nepal - Admin Dashboard",
+  "description": "An admin web dashboard for the CivicConnect Nepal Smart City application. It allows administrators to monitor, manage, and analyze citizen-reported issues, view key metrics, and gain insights into urban management.",
+  "requestFramePermissions": []
+}
